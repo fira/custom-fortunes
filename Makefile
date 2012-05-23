@@ -1,9 +1,8 @@
 all: 
-	strfile clubnix
-	strfile man
-	strfile freespace
+	strfile src/clubnix
+	strfile src/man
+	strfile src/freespace
 
 install:
-	cp {man,freespace,clubnix} /usr/share/fortune/
-	cp *.dat /usr/share/fortune/
+	cp src/* /usr/share/fortune/
 
