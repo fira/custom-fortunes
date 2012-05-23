@@ -1,0 +1,5 @@
+4. Use it in 'lottery' situations.  
+If you're an ISP, write a script to store login names and  GECOS from /etc/passwd in strfile format, write another to send 'congratulations, you've won' to the lucky login selected.  
+The prize might be a month's  free  service, or if you're AOL, a month free on a real service provider.
+  -- strfile manpage
+
